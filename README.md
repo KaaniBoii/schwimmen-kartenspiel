@@ -1,4 +1,9 @@
 # schwimmen-kartenspiel
 
-<p>1.) Server lokal starten via CMD: <code>node server.js</code></p>
-<p>2.) Client auf <code>localhost:3000</code> im Browser öffnen. Um den zweiten Spieler zu starten muss ein weiterer Tab im Browser auf <code>localhost:3000</code> geöffnet werden.</p>
+<p>1.) Alle dependencies via <code>npm install .\schwimmen\Server_Node_JS\</code> installieren.</p>
+
+<p>2.) CD zu <code>cd .\schwimmen\Server_Node_JS\</code></p>
+
+<p>3.) Server lokal starten via CMD: <code>node server.js</code></p>
+
+<p>4.) Client auf <code>localhost:3000</code> im Browser öffnen. Um den zweiten Spieler zu starten muss ein weiterer Tab im Browser auf <code>localhost:3000</code> geöffnet werden.</p>
