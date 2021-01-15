@@ -1,5 +1,7 @@
 # schwimmen-kartenspiel
 
+<b>PREREQUISITES</b>: <code>Node.js</code> muss auf dem System installiert sein --> https://nodejs.org/en/download/
+
 Alle folgenden Befehle auf einem CMD ausführen:
 
 <p>1.) Alle dependencies via <code>npm install .\schwimmen\Server_Node_JS\</code> installieren.</p>
